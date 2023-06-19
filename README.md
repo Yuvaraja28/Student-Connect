@@ -3,12 +3,13 @@
 # Screenshots
 | PC View |
 |---|
-|![signin_pc](https://github.com/Yuvaraja28/MVIT_Student_Connect_NextJS/assets/64340067/212836f1-bd3c-47cd-bce9-e68a5fac02ea)|
-|![dashboard_pc](https://github.com/Yuvaraja28/MVIT_Student_Connect_NextJS/assets/64340067/c2efd664-2286-45d4-873b-61192953a298)|
-|![notice_pc](https://github.com/Yuvaraja28/MVIT_Student_Connect_NextJS/assets/64340067/5ac5f2dd-2017-4960-9d11-d5b31a356236)|
-|![profile_pc](https://github.com/Yuvaraja28/MVIT_Student_Connect_NextJS/assets/64340067/04d75d5a-8878-4e16-82e6-389b9dc1e26b)|
+|![signin_pc](https://github.com/Yuvaraja28/MVIT_Student_Connect_NextJS/assets/64340067/4f048a43-73c4-4dec-b9b1-d7dd936c98d0)|
+|![dashboard_pc](https://github.com/Yuvaraja28/MVIT_Student_Connect_NextJS/assets/64340067/57c9ef5d-a3db-426c-ac32-999dc2a6dc57)|
+|![notice_pc](https://github.com/Yuvaraja28/MVIT_Student_Connect_NextJS/assets/64340067/0b0ed71c-808a-4c37-963b-2f54921de355)|
+|![profile_pc](https://github.com/Yuvaraja28/MVIT_Student_Connect_NextJS/assets/64340067/48853dc6-665b-4aa1-9bb5-82ec6b00505f)|
+
 
 | Mobile View | Mobile View |
 |---|---|
-|![signin_m](https://github.com/Yuvaraja28/MVIT_Student_Connect_NextJS/assets/64340067/9c0f7f52-6b1b-4f35-aa5e-07830c7e0eeb)|![dashboard_m](https://github.com/Yuvaraja28/MVIT_Student_Connect_NextJS/assets/64340067/44b6feec-1e4d-430f-8467-bb7dee5efd92)|
-|![notice_m](https://github.com/Yuvaraja28/MVIT_Student_Connect_NextJS/assets/64340067/1748f32f-181e-4915-b253-fe8d0f05cdff)|![profile_m](https://github.com/Yuvaraja28/MVIT_Student_Connect_NextJS/assets/64340067/9c7231bb-f9ba-46e8-b46d-770b3f7baf13)|
+|![signin_m](https://github.com/Yuvaraja28/MVIT_Student_Connect_NextJS/assets/64340067/d56f1ee6-de48-45d4-af8b-574f9a8c306f)|![dashboard_m](https://github.com/Yuvaraja28/MVIT_Student_Connect_NextJS/assets/64340067/ef845c80-6a0c-4129-a297-06146bdffe65)|
+|![notice_m](https://github.com/Yuvaraja28/MVIT_Student_Connect_NextJS/assets/64340067/a9a34d1d-e24d-449f-b27d-853c79140049)|![profile_m](https://github.com/Yuvaraja28/MVIT_Student_Connect_NextJS/assets/64340067/ddec4b3a-06ae-47c1-babb-9a7df5a422ca)|
