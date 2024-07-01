@@ -1,0 +1,151 @@
+.navbar {
+  position: fixed;
+  text-align: center;
+  padding: 10px;
+  border-radius: 18px;
+  margin: 10px;
+  border: 3px solid #7928ca;
+  font-size: 22px;
+  font-weight: 800;
+  word-spacing: 4px;
+  width: 90%;
+  backdrop-filter: blur(25px);
+  background: linear-gradient(310deg,#7928ca,#ff0080);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  box-shadow: rgba(0, 0, 0, 0.07) 0px 1px 2px, rgba(0, 0, 0, 0.07) 0px 2px 4px, rgba(0, 0, 0, 0.07) 0px 4px 8px, rgba(0, 0, 0, 0.07) 0px 8px 16px, rgba(0, 0, 0, 0.07) 0px 16px 32px, rgba(0, 0, 0, 0.07) 0px 32px 64px;
+}
+
+.login_box_split {
+  display: flex;
+  flex-direction: row;
+  height: 95vh;
+  margin: 20px;
+}
+
+.login_box {
+  display: flex;
+  flex: 3;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 25px;
+  margin-bottom: 2em;
+}
+
+.login_box_head {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.login_box_form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.login_box_form input {
+  padding: 0.80em;
+  font-size: 0.95em;
+  width: 30vh;
+  border-radius: 0.5rem;
+  outline: none;
+  letter-spacing: 0.5px;
+  color: #495057;
+  border: 3px solid #d2d6da;
+}
+.login_box_form input:focus {
+  border: 3px solid #7928ca;
+}
+
+.login_box_form button {
+  padding: 0.80em;
+  font-size: 0.95em;
+  font-weight: 800;
+  width: 100%;
+  border-radius: 0.5rem;
+  outline: none;
+  color: white;
+  border: none;
+  text-transform: uppercase;
+  cursor: pointer;
+  letter-spacing: 1px;
+  background: linear-gradient(310deg,#7928ca,#ff0080);
+}
+.login_box_form button:active {
+  transform: translateY(-2px);
+}
+
+.login_box_banner {
+  color: white;
+  border-radius: 10px;
+  margin-top: 3.5em;
+  display: flex;
+  flex: 1.5;
+  gap: 20px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-image: linear-gradient(310deg,#7928ca,#ff0080);
+}
+
+.project_name {
+  letter-spacing: 0.5px;
+  font-size: 30px;
+  background: linear-gradient(310deg,#7928ca,#ff0080);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: 800;
+}
+
+.sign_text {
+  letter-spacing: 0.5px;
+  font-size: 26px;
+}
+.sign_bottom_text {
+  letter-spacing: 0.5px;
+  font-size: 16px;
+}
+.banner_text {
+  padding: 18px;
+  text-align: center;
+  letter-spacing: 0.5px;
+  line-height: 30px;
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.footer {
+  height: 10vh;
+  width: 100%;
+  color: black;
+  background: #FAF9F6	;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  box-shadow: rgba(9, 30, 66, 0.25) 0px 1px 1px, rgba(9, 30, 66, 0.13) 0px 0px 1px 1px;
+}
+.footer_name, .footer_creator {
+  background: linear-gradient(310deg,#7928ca,#ff0080);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.footer_name {
+  font-weight: 600;
+  font-size: 21px;
+}
+.footer_creator {
+  font-weight: 600;
+  font-size: 18px;
+}
+
+@media only screen and (max-width: 600px)  {
+  .login_box_banner {
+    display: none;
+  }
+}

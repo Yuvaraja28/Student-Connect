@@ -1,0 +1,16 @@
+{
+    "202203107" : {
+        "enroll": 202203107, "name": "Yuvaraja.M", "gender": "Male", "blood": "-",
+        "degree": "cse", "class": "B", "year": 1, "semester": 2, 
+        "phone": "**********", "email": "yuvaraja****@gmail.com", "profile_icon": "yuvaraja.png",
+        "subjects" : [
+            { "name": "Mathematics-2", "staff": "Mrs. P. Megala" },
+            { "name": "Material Science", "staff": "Mr. K. Anand" },
+            { "name": "Environmental Science", "staff": "Mr. R. Balaji" },
+            { "name": "Basic Civil", "staff": "Dr. R. Rajalakshmi" },
+            { "name": "Basic Mechanical", "staff": "Mr. Krishnakumar" },
+            { "name": "Engineering Mechanics", "staff": "Dr. Rajalakshmi" },
+            { "name": "Communicative English", "staff": "Ms. L.M. Ramya" }
+        ]
+    }
+}
